@@ -1,3 +1,31 @@
+## [2.0.1](https://github.com/krwu/ServerStatus-web/compare/v2.0.0...v2.0.1) (2022-07-14)
+
+
+### Performance Improvements
+
+* clean unnecessary packages ([d5a1dd0](https://github.com/krwu/ServerStatus-web/commit/d5a1dd007cecafe7b4461e98667410ae099b6e3d))
+
+# [2.0.0](https://github.com/krwu/ServerStatus-web/compare/v1.4.0...v2.0.0) (2022-06-14)
+
+
+### Features
+
+* upgrade dependencies ([eeff4c0](https://github.com/krwu/ServerStatus-web/commit/eeff4c0eaf59122bc984be4ab3970dbaf72164d1))
+
+
+### BREAKING CHANGES
+
+* - react-scripts upgraded to v5
+- semantic-release upgraded to v19
+- dropped support for Node <= 15
+
+# [1.4.0](https://github.com/krwu/ServerStatus-web/compare/v1.3.0...v1.4.0) (2022-02-19)
+
+
+### Features
+
+* upgrade dependencies ([c9a4f11](https://github.com/krwu/ServerStatus-web/commit/c9a4f11286bd6d4788a78853af81104940b62fff))
+
 # [1.3.0](https://github.com/krwu/ServerStatus-web/compare/v1.2.0...v1.3.0) (2021-09-22)
 
 
